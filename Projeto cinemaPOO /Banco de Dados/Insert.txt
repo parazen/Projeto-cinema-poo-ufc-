@@ -1,0 +1,6 @@
+insert into Servico (descricao, preco) values ('Filme sala 3D climatizada', 30);
+insert into Servico (descricao, preco) values ('Filme sala climatizada', 15);
+insert into Servico (descricao, preco) values ('Filme sala 3D', 25);
+insert into Servico (descricao, preco) values ('Filme sala simples', 10);
+insert into Servico (descricao, preco) values ('Filme sala 4D', 50);
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/AtualizarAgendamentoView.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/AgendarView.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/model/AgendarModel.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/BuscarAgendamentoView.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/controler/CCControler.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/controler/RAgenControler.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/model/ClienteModel.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/dao/AgendarDAO.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/MenuPView.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/controler/AgenControler.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/dao/Conexao.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/RemoverAgendamentoView.java</file>
+            <file>file:/C:/Users/geans/OneDrive/Área%20de%20Trabalho/BDBarbearia/src/view/CadastrarClienteView.java</file>
+        </group>
+    </open-files>
+</project-private>
